@@ -1,6 +1,7 @@
 ## Olá! Eu sou a Carla Beatriz
 
-Hoje trabalho na Área Fiscal e estou em transição de carreira para tecnologia!! 
+Estou em transição de carreira para tecnologia!! 
+E me desenvolvendo para me tornar uma DEV!!
 
 👩‍🎓 Estudante de Análise e Desenvolvimento de sistemas
 
