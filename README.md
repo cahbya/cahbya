@@ -1,7 +1,8 @@
 ## Olá! Eu sou a Carla Beatriz
 
 Estou em transição de carreira para tecnologia!! 
-E me desenvolvendo para me tornar uma DEV!!
+
+E me desenvolvendo para me tornar uma futura DEV!
 
 👩‍🎓 Estudante de Análise e Desenvolvimento de sistemas
 
