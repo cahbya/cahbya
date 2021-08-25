@@ -7,7 +7,7 @@ E me desenvolvendo para me tornar uma DEV!!
 
 📩 Contate-me no email: carla.greches@gmail.com
 
-🌱 Estudando C#/ .NET/ Orientação a objetos.
+🌱 Estudando C#/ .NET/ Orientação a objetos/JS.
 
 <div>
   <a href="https://github.com/cahbya">
